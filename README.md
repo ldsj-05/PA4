@@ -18,10 +18,10 @@ Features:
 - Supports toggling of ambient, diffuse, and specular lighting (A, D, S) and switching to normal rendering (N).
 - Texture mapping by binding texture images to shaders.
 
-### Scenes
+### SceneOne.py, SceneTwo.py, SceneThree.py
 Purpose: different scenes with different lighting, objects and materials 
 
-## shape program
+## DisplayableCube.py, DisplayableEllipsoid.py, DisplayableTorus.py, DisplayableCylinder.py, DisplayablePyramid.py
 Purpose: Geometry and Properties of objects 
 
 ## GLProgram 
